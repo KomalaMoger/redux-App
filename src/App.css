@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(192, 189, 211);
+}
+/* .App{
+    background-color: rgb(88, 79, 150)
+} */
+    
+
+.App-header{
+   
+    background-color:rgb(39, 6, 63);
+    /* color:white; */
+    height:60px;
+  
+}
+.App-link{
+  display: inline-block; 
+  margin: 10px 10px;
+  color:crimson;
+  font-size:25px;
+  padding: 0px 15px;
+  text-decoration: none;
+  
+}
+.assignment-Link{
+    /* color:black; */
+    font-size:20px;
+    padding: 0px 15px;
+   
+}
+.h2-count-Link,.home,.h2-random-Link,.randomnumber-Link,.userlist-Link,.taskadd-Link{
+margin:20px 10px;
+font-size:20px;
+color:crimson;
+text-decoration: none;
+}
+.userremove-Link,.taskremove-Link{
+ margin:20px 10px;
+font-size:20px;
+color:crimson;
+text-align: center;
+
+}
+.Count-Link,.random-Link,.randomnumber-Link,.remove-Link,.taskbuttonremove-Link{
+    background-color:rgb(39, 6, 63);
+    color:crimson;
+    border-radius: 10px 10px;
+    margin:2px 2px;
+    height: 30px;
+    width: 60px;
+    text-decoration: none;
+}
+.taskinput{
+    color:crimson;
+    border-radius: 5px 5px;
+    margin:2px 2px;
+    height: 30px;
+   
+}
